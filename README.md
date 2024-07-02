@@ -91,4 +91,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - **Email**: [saviour.eking@outlook.com](mailto:saviour.eking@outlook.com)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/saviour-eking/)
-- **GitHub**: [Your GitHub Profile](https://github.com/TheSaviourEking)
+- **GitHub**: [TheSaviourEking](https://github.com/TheSaviourEking)

@@ -57,13 +57,13 @@ As I embark on this journey, I have set several goals to guide my progress and k
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/my-tech-journey.git
+    git clone https://github.com/TheSaviourEking/stage-1-task-frontend.git
     ```
 
 2. Navigate to the project directory:
 
     ```sh
-    cd my-tech-journey
+    stage-1-task-frontend
     ```
 
 3. Open `index.html` in your web browser to view the website.
@@ -90,5 +90,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 - **Email**: [saviour.eking@outlook.com](mailto:saviour.eking@outlook.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/saviour-eking/)
+- **LinkedIn**: [Saviour Eking](https://www.linkedin.com/in/saviour-eking/)
 - **GitHub**: [TheSaviourEking](https://github.com/TheSaviourEking)
